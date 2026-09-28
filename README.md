@@ -1,5 +1,4 @@
 # smart-study-assistant-plan-practice-and-track-your-learning
-# Smart Study Assistant
 
 ## Overview
 
