@@ -64,6 +64,9 @@ The application can be tested using student details, subjects details and test a
 
 Different test scores should produce different performance categories and study recommendations.
 
+## Screenshots
+  Screenshots are attached in a folder
+
 ## Future Enhancements
 
 * Add more subjects and quiz questions
@@ -71,3 +74,14 @@ Different test scores should produce different performance categories and study 
 * Store student progress for future sessions
 * Add performance charts
 * Add more personalized study recommendations
+  
+## Conclusion
+This project was developed as part of the VITyarthi Build Your Own Project activity to demonstrate Python programming, modular design, object-oriented programming, user input handling, conditional decision-making, and basic performance analysis.
+
+
+## Submitted by 
+ NAME:ANGANA NEOG
+ REGISTRATION NO: 26MIM10012
+ COURSE:INTRODUCTION TO PROBLEM SOLVING AND PROGRAMMING
+ VIT BHOPAL UNIVERSITY
+
